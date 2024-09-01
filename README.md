@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="left">Software Developer from Türkiye</h3>
 
-- 💻 I’m currently working on [eCommerce Platform](https://github.com/cnburak/eCommercePlatform)
-- 🌐 All of my projects are available at [GitHub](https://github.com/cnburak?tab=repositories)
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/cnburak)
 - 🧩 Know about my experiences on [LeetCode](https://leetcode.com/u/cnburak)
+- 🌐 All of my projects are available at [GitHub](https://github.com/cnburak?tab=repositories)
 
 <h3 align="left">Languages and Tools<a href="https://github.com/cnburak"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/></h3></a>
 <p align="left">
